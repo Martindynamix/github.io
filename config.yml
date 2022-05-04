@@ -15,23 +15,3 @@ sass:
     sass_dir: _sass
 
 
-# Select which social network share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
-  vk: false
-
-# Fill in your Google Analytics ID to track your website using Google Analytics
-google_analytics: "sJA7DAfBek3WtJ1Cpkx-Wj3tsdyX2VzgOde4DDgfs9w"
-        
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
-
