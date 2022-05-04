@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <category>Web development</category>
+        <language>en-us</language>
+        <copyright>2022 Miciah Martin All rights reserved.</copyright>
+        <image>
+             <url>https://www.miciahmartin.com/img/cards/Card.gif</url>
+             <title>Miciah Martin</title>
+             <link>https://www.miciahmartin.com</link>
+        </image>
+        <title>Miciah Martin Full Stack Develeper Working From Reno, Nevada</title>
+        <link>https://www.miciahmartin.com</link>
+        <description>Miciah Martin is a Full Stack Developer working from Reno, NV. Miciah works both freelance and permanent employee positions.</description>
+        <item>
+            <title>Miciahs Skill Set an Abbreviated Outline of the Skills Known by Miciah</title>
+            <link>https://www.miciahmartin.com/skills.html</link>
+            <description>Miciah Martin is a Full Stack Developer here you will find an outline of some skills Miciah knows and uses from time to time</description>
+        </item>
+        <item>
+            <title>Get In Touch With Miciah</title>
+            <link>https://www.miciahmartin.com/contact.html</link>
+            <description>How to get in touch with Miciah. The fastest way is by Phone. Miciah can be reached by Phone or Email</description>
+        </item>
+        <item>
+            <title>Biography</title>
+            <link>https://www.miciahmartin.com/bio.html</link>
+            <description>A short brief about Miciah including bits of his childhood and future aspirations</description>
+        </item>
+        <item>
+            <title>Technology Opinion Editorials</title>
+            <link>https://www.miciahmartin.com/technology.html</link>
+            <description>Here Miciah Exposits his Opinions on various technologies, development techniques, hardware and more.</description>
+        </item>
+        <item>
+            <title>Projects In Motion Pipeline</title>
+            <link>https://www.miciahmartin.com/pipeline.html</link>
+            <description>Listings of Miciahs Projects. These projects may be in Motion meaning in the devlopment phase. When a project is finished the staus can be found here.</description>
+        </item>
+    </channel>
+</rss>
