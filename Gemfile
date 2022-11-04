@@ -1,12 +1,14 @@
-
+# frozen_string_literal: true
 
 source "https://rubygems.org"
 
 gem "jekyll"
-
-gem "wdm", "~> 0.1.1"
-
 gem "webrick", "~> 1.7"
-
-gem 'bootstrap', '~> 5.1.3'
+gem 'wdm', '>= 0.1.0'
+group :jekyll_plugins do
+    gem 'jekyll-feed'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-sitemap'
+    gem 'jekyll-feed'
+  end
 
